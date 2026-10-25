@@ -1,0 +1,216 @@
+{
+  "baseline_prior": {
+    "cv_roc_auc": 0.5,
+    "test": {
+      "roc_auc": 0.5,
+      "pr_auc": 0.27166666666666667,
+      "f1": 0.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "accuracy": 0.7283333333333334,
+      "brier": 0.19786406250000002,
+      "threshold": 0.5
+    }
+  },
+  "logistic_regression": {
+    "cv_roc_auc": 0.8520686949350657,
+    "cv_oof_pr_auc": 0.7080725205074916,
+    "best_params": {
+      "clf__C": 0.31489116479568624
+    },
+    "test": {
+      "roc_auc": 0.8597380354059327,
+      "pr_auc": 0.7094538479754166,
+      "f1": 0.6571428571428571,
+      "precision": 0.6149732620320856,
+      "recall": 0.7055214723926381,
+      "accuracy": 0.8,
+      "brier": 0.1284913050783319,
+      "threshold": 0.33369878570865086
+    }
+  },
+  "random_forest": {
+    "cv_roc_auc": 0.8247065929018378,
+    "cv_oof_pr_auc": 0.6767332125036839,
+    "best_params": {
+      "clf__max_depth": 13,
+      "clf__max_features": 0.29359671220172157,
+      "clf__min_samples_leaf": 13
+    },
+    "test": {
+      "roc_auc": 0.8243601802585953,
+      "pr_auc": 0.6424183131227801,
+      "f1": 0.5818181818181818,
+      "precision": 0.5748502994011976,
+      "recall": 0.588957055214724,
+      "accuracy": 0.77,
+      "brier": 0.14905757845613826,
+      "threshold": 0.3481774721536957
+    }
+  },
+  "hist_gradient_boosting": {
+    "cv_roc_auc": 0.8380608041141911,
+    "cv_oof_pr_auc": 0.685066786377097,
+    "best_params": {
+      "clf__l2_regularization": 2.752717392942941,
+      "clf__learning_rate": 0.09579382929739055,
+      "clf__max_depth": 2,
+      "clf__max_leaf_nodes": 12,
+      "clf__min_samples_leaf": 27
+    },
+    "test": {
+      "roc_auc": 0.8432704861647318,
+      "pr_auc": 0.6772208085228062,
+      "f1": 0.6426426426426426,
+      "precision": 0.6294117647058823,
+      "recall": 0.656441717791411,
+      "accuracy": 0.8016666666666666,
+      "brier": 0.139430166893039,
+      "threshold": 0.33786103463702694
+    }
+  },
+  "selected": {
+    "model": "logistic_regression",
+    "selection_metric": "cv_roc_auc",
+    "calibrated": true,
+    "test_calibrated": {
+      "roc_auc": 0.8598784237200097,
+      "pr_auc": 0.7090018489855169,
+      "f1": 0.6571428571428571,
+      "precision": 0.6149732620320856,
+      "recall": 0.7055214723926381,
+      "accuracy": 0.8,
+      "brier": 0.12851795887403608,
+      "threshold": 0.3357518997316663
+    },
+    "test_uncalibrated_brier": 0.1284913050783319,
+    "threshold": 0.3357518997316663,
+    "confusion_matrix": [
+      [
+        365,
+        72
+      ],
+      [
+        48,
+        115
+      ]
+    ]
+  },
+  "feature_importance": [
+    {
+      "feature": "contract_type",
+      "importance": 0.07171035083039681,
+      "std": 0.007126826280253162
+    },
+    {
+      "feature": "late_payments_12m",
+      "importance": 0.06050034395136941,
+      "std": 0.008603132310542399
+    },
+    {
+      "feature": "usage_trend_pct",
+      "importance": 0.044429391697435025,
+      "std": 0.008930246623776327
+    },
+    {
+      "feature": "competitor_mentions_90d",
+      "importance": 0.038480436888433375,
+      "std": 0.006417120505634643
+    },
+    {
+      "feature": "nps_score",
+      "importance": 0.0313522202411871,
+      "std": 0.008570987547619093
+    },
+    {
+      "feature": "industry",
+      "importance": 0.026670269966727903,
+      "std": 0.006209194961881042
+    },
+    {
+      "feature": "sla_breaches_90d",
+      "importance": 0.024171357976162017,
+      "std": 0.004606334786024561
+    },
+    {
+      "feature": "seats_active",
+      "importance": 0.018145189594418104,
+      "std": 0.0027052176077671047
+    },
+    {
+      "feature": "seats_purchased",
+      "importance": 0.012045317347783926,
+      "std": 0.0021537255816699106
+    },
+    {
+      "feature": "tenure_months",
+      "importance": 0.005415479215510027,
+      "std": 0.0025859450284975885
+    },
+    {
+      "feature": "exec_sponsor",
+      "importance": 0.0033114093582849585,
+      "std": 0.001442698060854978
+    },
+    {
+      "feature": "company_size",
+      "importance": 0.0014758321517316236,
+      "std": 0.00047470339440427317
+    },
+    {
+      "feature": "days_to_renewal",
+      "importance": 0.0014354705114345695,
+      "std": 0.0007653980024663841
+    },
+    {
+      "feature": "annual_contract_value",
+      "importance": 0.00027726692030148603,
+      "std": 0.001021337045688747
+    },
+    {
+      "feature": "support_tickets_90d",
+      "importance": 0.0002667377967457141,
+      "std": 0.0013676156592446916
+    },
+    {
+      "feature": "avg_resolution_hours",
+      "importance": 0.00020882761718915566,
+      "std": 0.0030165969612946466
+    },
+    {
+      "feature": "logins_30d",
+      "importance": 0.00020707276326313584,
+      "std": 0.00020377473806343618
+    },
+    {
+      "feature": "region",
+      "importance": 0.00013863346015073608,
+      "std": 0.0015488502197825947
+    },
+    {
+      "feature": "discount_pct",
+      "importance": -1.7548539259670815e-05,
+      "std": 0.0009732907777611677
+    },
+    {
+      "feature": "days_sales_outstanding",
+      "importance": -0.0006089343123079211,
+      "std": 0.0010500759083017148
+    },
+    {
+      "feature": "feature_adoption_score",
+      "importance": -0.0013003467591358175,
+      "std": 0.0011517819011242665
+    }
+  ],
+  "meta": {
+    "n_rows": 3000,
+    "churn_rate": 0.2713333333333333,
+    "n_train": 2400,
+    "n_test": 600,
+    "cv_folds": 5,
+    "search_iters": 12,
+    "seed": 42,
+    "train_seconds": 34.7
+  }
+}

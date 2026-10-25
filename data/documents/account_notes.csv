@@ -1,0 +1,201 @@
+note_id,customer_id,date,author,note
+N00001,C0904,2026-08-16,M. Chen,Training workshop completed; adoption metrics improving week over week.
+N00002,C0602,2026-04-22,S. Okafor,Champion left the company; new contact is evaluating alternatives including NimbusOps.
+N00003,C2838,2026-09-20,S. Okafor,Customer is very satisfied with the new reporting module and offered to be a reference.
+N00004,C0490,2026-02-12,A. Rao,Training workshop completed; adoption metrics improving week over week.
+N00005,C2408,2026-08-02,M. Chen,Quarterly business review went well; customer plans to expand to a second region.
+N00006,C2265,2026-01-01,L. Meyer,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00007,C0921,2026-07-16,A. Rao,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00008,C1939,2026-08-17,A. Rao,Quarterly business review went well; customer plans to expand to a second region.
+N00009,C0165,2026-05-26,A. Rao,Quarterly business review went well; customer plans to expand to a second region.
+N00010,C0201,2026-05-10,A. Rao,Frustrated by repeated SLA breaches; asked for an executive call before renewal.
+N00011,C1851,2026-09-06,M. Chen,Champion left the company; new contact is evaluating alternatives including Vantiq Cloud.
+N00012,C2347,2026-04-27,A. Rao,Customer mentioned budget cuts and asked about downgrading seats at renewal.
+N00013,C2997,2026-08-24,S. Okafor,Quarterly business review went well; customer plans to expand to a second region.
+N00014,C2363,2026-04-01,A. Rao,Quarterly business review went well; customer plans to expand to a second region.
+N00015,C2256,2026-09-13,L. Meyer,Frustrated by repeated SLA breaches; asked for an executive call before renewal.
+N00016,C2798,2026-05-09,S. Okafor,Customer mentioned budget cuts and asked about downgrading seats at renewal.
+N00017,C2466,2026-09-21,L. Meyer,Usage has dropped sharply since the reorganisation; only a fraction of seats are active.
+N00018,C2209,2026-03-02,A. Rao,Usage has dropped sharply since the reorganisation; only a fraction of seats are active.
+N00019,C1347,2026-05-02,L. Meyer,Training workshop completed; adoption metrics improving week over week.
+N00020,C2204,2026-07-11,L. Meyer,Usage has dropped sharply since the reorganisation; only a fraction of seats are active.
+N00021,C2903,2026-09-08,M. Chen,NimbusOps presented a proposal priced well below our renewal quote; customer asked us to match it.
+N00022,C0466,2026-02-27,A. Rao,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00023,C0643,2026-07-15,L. Meyer,Quarterly business review went well; customer plans to expand to a second region.
+N00024,C0184,2026-04-26,S. Okafor,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00025,C1238,2026-05-11,S. Okafor,Quarterly business review went well; customer plans to expand to a second region.
+N00026,C0098,2026-02-27,M. Chen,Usage has dropped sharply since the reorganisation; only a fraction of seats are active.
+N00027,C1451,2026-05-24,M. Chen,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00028,C0084,2026-02-03,S. Okafor,Quarterly business review went well; customer plans to expand to a second region.
+N00029,C2745,2026-05-06,L. Meyer,Quarterly business review went well; customer plans to expand to a second region.
+N00030,C1711,2026-03-05,L. Meyer,Quarterly business review went well; customer plans to expand to a second region.
+N00031,C0524,2026-02-11,S. Okafor,Quarterly business review went well; customer plans to expand to a second region.
+N00032,C2884,2026-08-27,A. Rao,Frustrated by repeated SLA breaches; asked for an executive call before renewal.
+N00033,C1211,2026-02-26,A. Rao,Customer mentioned budget cuts and asked about downgrading seats at renewal.
+N00034,C0190,2026-04-25,M. Chen,Quarterly business review went well; customer plans to expand to a second region.
+N00035,C2816,2026-02-14,L. Meyer,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00036,C2763,2026-06-24,S. Okafor,Usage has dropped sharply since the reorganisation; only a fraction of seats are active.
+N00037,C1744,2026-01-13,A. Rao,Training workshop completed; adoption metrics improving week over week.
+N00038,C0598,2026-08-11,M. Chen,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00039,C1479,2026-05-12,A. Rao,Payments have been late three quarters in a row; finance contact cites cash-flow pressure.
+N00040,C0677,2026-02-18,A. Rao,Frustrated by repeated SLA breaches; asked for an executive call before renewal.
+N00041,C0371,2026-03-21,S. Okafor,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00042,C2969,2026-07-06,L. Meyer,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00043,C2534,2026-05-15,S. Okafor,Champion left the company; new contact is evaluating alternatives including Vantiq Cloud.
+N00044,C0837,2026-09-12,M. Chen,Champion left the company; new contact is evaluating alternatives including Vantiq Cloud.
+N00045,C2122,2026-05-25,M. Chen,Training workshop completed; adoption metrics improving week over week.
+N00046,C0370,2026-03-07,S. Okafor,Payments have been late three quarters in a row; finance contact cites cash-flow pressure.
+N00047,C1570,2026-09-01,M. Chen,Frustrated by repeated SLA breaches; asked for an executive call before renewal.
+N00048,C2040,2026-07-02,L. Meyer,Customer is very satisfied with the new reporting module and offered to be a reference.
+N00049,C1717,2026-08-25,M. Chen,Training workshop completed; adoption metrics improving week over week.
+N00050,C0938,2026-02-24,L. Meyer,Vantiq Cloud presented a proposal priced well below our renewal quote; customer asked us to match it.
+N00051,C0926,2026-06-22,S. Okafor,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00052,C2146,2026-06-12,S. Okafor,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00053,C1840,2026-07-14,M. Chen,Training workshop completed; adoption metrics improving week over week.
+N00054,C1066,2026-04-04,M. Chen,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00055,C2100,2026-07-07,L. Meyer,Quarterly business review went well; customer plans to expand to a second region.
+N00056,C1285,2026-06-03,A. Rao,Payments have been late three quarters in a row; finance contact cites cash-flow pressure.
+N00057,C0720,2026-02-11,M. Chen,Training workshop completed; adoption metrics improving week over week.
+N00058,C0241,2026-07-21,A. Rao,Quarterly business review went well; customer plans to expand to a second region.
+N00059,C1012,2026-02-21,M. Chen,Payments have been late three quarters in a row; finance contact cites cash-flow pressure.
+N00060,C2302,2026-04-08,A. Rao,Training workshop completed; adoption metrics improving week over week.
+N00061,C2655,2026-05-23,S. Okafor,Customer mentioned budget cuts and asked about downgrading seats at renewal.
+N00062,C0763,2026-03-22,S. Okafor,Vantiq Cloud presented a proposal priced well below our renewal quote; customer asked us to match it.
+N00063,C1931,2026-05-12,L. Meyer,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00064,C1397,2026-04-10,A. Rao,Customer mentioned budget cuts and asked about downgrading seats at renewal.
+N00065,C1026,2026-05-10,M. Chen,Customer mentioned budget cuts and asked about downgrading seats at renewal.
+N00066,C1554,2026-02-09,A. Rao,Training workshop completed; adoption metrics improving week over week.
+N00067,C2047,2026-04-19,M. Chen,Customer mentioned budget cuts and asked about downgrading seats at renewal.
+N00068,C0373,2026-05-21,A. Rao,Training workshop completed; adoption metrics improving week over week.
+N00069,C0044,2026-05-17,S. Okafor,Usage has dropped sharply since the reorganisation; only a fraction of seats are active.
+N00070,C1467,2026-05-17,M. Chen,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00071,C0504,2026-09-14,L. Meyer,Usage has dropped sharply since the reorganisation; only a fraction of seats are active.
+N00072,C2527,2026-07-01,S. Okafor,Training workshop completed; adoption metrics improving week over week.
+N00073,C2866,2026-05-14,M. Chen,Vantiq Cloud presented a proposal priced well below our renewal quote; customer asked us to match it.
+N00074,C2712,2026-06-23,L. Meyer,Training workshop completed; adoption metrics improving week over week.
+N00075,C1236,2026-03-06,L. Meyer,Champion left the company; new contact is evaluating alternatives including OrbitDesk.
+N00076,C2841,2026-07-24,A. Rao,Training workshop completed; adoption metrics improving week over week.
+N00077,C2061,2026-03-04,M. Chen,Usage has dropped sharply since the reorganisation; only a fraction of seats are active.
+N00078,C2550,2026-08-17,S. Okafor,Payments have been late three quarters in a row; finance contact cites cash-flow pressure.
+N00079,C1378,2026-06-17,M. Chen,Training workshop completed; adoption metrics improving week over week.
+N00080,C0983,2026-07-02,S. Okafor,Quarterly business review went well; customer plans to expand to a second region.
+N00081,C2379,2026-08-01,S. Okafor,Training workshop completed; adoption metrics improving week over week.
+N00082,C2548,2026-07-05,A. Rao,Payments have been late three quarters in a row; finance contact cites cash-flow pressure.
+N00083,C0871,2026-09-21,A. Rao,Training workshop completed; adoption metrics improving week over week.
+N00084,C2397,2026-04-07,L. Meyer,Training workshop completed; adoption metrics improving week over week.
+N00085,C1982,2026-09-16,M. Chen,Customer mentioned budget cuts and asked about downgrading seats at renewal.
+N00086,C2578,2026-07-07,L. Meyer,Training workshop completed; adoption metrics improving week over week.
+N00087,C2565,2026-04-20,L. Meyer,Training workshop completed; adoption metrics improving week over week.
+N00088,C0843,2026-07-01,S. Okafor,Usage has dropped sharply since the reorganisation; only a fraction of seats are active.
+N00089,C1444,2026-01-06,A. Rao,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00090,C0168,2026-07-22,L. Meyer,Usage has dropped sharply since the reorganisation; only a fraction of seats are active.
+N00091,C1390,2026-04-10,S. Okafor,Champion left the company; new contact is evaluating alternatives including NimbusOps.
+N00092,C1301,2026-02-06,S. Okafor,Quarterly business review went well; customer plans to expand to a second region.
+N00093,C1278,2026-05-21,L. Meyer,Vantiq Cloud presented a proposal priced well below our renewal quote; customer asked us to match it.
+N00094,C0593,2026-02-27,A. Rao,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00095,C1884,2026-09-02,A. Rao,Customer is very satisfied with the new reporting module and offered to be a reference.
+N00096,C0332,2026-01-21,L. Meyer,Usage has dropped sharply since the reorganisation; only a fraction of seats are active.
+N00097,C2735,2026-05-04,A. Rao,Champion left the company; new contact is evaluating alternatives including Vantiq Cloud.
+N00098,C2930,2026-03-08,A. Rao,Customer is very satisfied with the new reporting module and offered to be a reference.
+N00099,C1492,2026-08-18,M. Chen,Training workshop completed; adoption metrics improving week over week.
+N00100,C0577,2026-02-07,M. Chen,Frustrated by repeated SLA breaches; asked for an executive call before renewal.
+N00101,C1355,2026-04-26,A. Rao,Quarterly business review went well; customer plans to expand to a second region.
+N00102,C1009,2026-03-01,A. Rao,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00103,C1617,2026-06-12,L. Meyer,Champion left the company; new contact is evaluating alternatives including OrbitDesk.
+N00104,C0354,2026-06-23,A. Rao,Customer is very satisfied with the new reporting module and offered to be a reference.
+N00105,C2109,2026-01-24,L. Meyer,Training workshop completed; adoption metrics improving week over week.
+N00106,C2327,2026-01-17,S. Okafor,Frustrated by repeated SLA breaches; asked for an executive call before renewal.
+N00107,C0279,2026-08-05,L. Meyer,Payments have been late three quarters in a row; finance contact cites cash-flow pressure.
+N00108,C2549,2026-09-12,A. Rao,Champion left the company; new contact is evaluating alternatives including OrbitDesk.
+N00109,C0271,2026-05-27,S. Okafor,Usage has dropped sharply since the reorganisation; only a fraction of seats are active.
+N00110,C0833,2026-06-08,M. Chen,Quarterly business review went well; customer plans to expand to a second region.
+N00111,C0200,2026-03-09,S. Okafor,Champion left the company; new contact is evaluating alternatives including OrbitDesk.
+N00112,C1518,2026-05-16,L. Meyer,Payments have been late three quarters in a row; finance contact cites cash-flow pressure.
+N00113,C2333,2026-09-22,A. Rao,Customer is very satisfied with the new reporting module and offered to be a reference.
+N00114,C0405,2026-03-19,M. Chen,Payments have been late three quarters in a row; finance contact cites cash-flow pressure.
+N00115,C2167,2026-08-13,L. Meyer,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00116,C2995,2026-02-27,M. Chen,Training workshop completed; adoption metrics improving week over week.
+N00117,C0675,2026-05-02,L. Meyer,Customer is very satisfied with the new reporting module and offered to be a reference.
+N00118,C1423,2026-06-24,A. Rao,Frustrated by repeated SLA breaches; asked for an executive call before renewal.
+N00119,C0881,2026-04-17,L. Meyer,Customer is very satisfied with the new reporting module and offered to be a reference.
+N00120,C1157,2026-08-09,A. Rao,OrbitDesk presented a proposal priced well below our renewal quote; customer asked us to match it.
+N00121,C0318,2026-06-08,S. Okafor,Training workshop completed; adoption metrics improving week over week.
+N00122,C2416,2026-09-01,M. Chen,Usage has dropped sharply since the reorganisation; only a fraction of seats are active.
+N00123,C1272,2026-06-17,M. Chen,Quarterly business review went well; customer plans to expand to a second region.
+N00124,C1334,2026-05-10,L. Meyer,NimbusOps presented a proposal priced well below our renewal quote; customer asked us to match it.
+N00125,C2442,2026-04-12,L. Meyer,Usage has dropped sharply since the reorganisation; only a fraction of seats are active.
+N00126,C1560,2026-05-07,S. Okafor,OrbitDesk presented a proposal priced well below our renewal quote; customer asked us to match it.
+N00127,C2808,2026-08-09,A. Rao,Training workshop completed; adoption metrics improving week over week.
+N00128,C2614,2026-08-07,L. Meyer,Customer is very satisfied with the new reporting module and offered to be a reference.
+N00129,C1893,2026-09-12,S. Okafor,Customer mentioned budget cuts and asked about downgrading seats at renewal.
+N00130,C1737,2026-09-15,A. Rao,Customer is very satisfied with the new reporting module and offered to be a reference.
+N00131,C2334,2026-06-09,A. Rao,Customer is very satisfied with the new reporting module and offered to be a reference.
+N00132,C0902,2026-01-10,L. Meyer,Training workshop completed; adoption metrics improving week over week.
+N00133,C2555,2026-02-08,L. Meyer,Frustrated by repeated SLA breaches; asked for an executive call before renewal.
+N00134,C1392,2026-08-09,L. Meyer,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00135,C2880,2026-01-06,A. Rao,Quarterly business review went well; customer plans to expand to a second region.
+N00136,C1674,2026-01-02,A. Rao,Champion left the company; new contact is evaluating alternatives including OrbitDesk.
+N00137,C0401,2026-06-03,L. Meyer,Quarterly business review went well; customer plans to expand to a second region.
+N00138,C2510,2026-03-18,M. Chen,Customer is very satisfied with the new reporting module and offered to be a reference.
+N00139,C1297,2026-05-20,M. Chen,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00140,C2832,2026-04-22,L. Meyer,Quarterly business review went well; customer plans to expand to a second region.
+N00141,C2500,2026-03-22,L. Meyer,Customer is very satisfied with the new reporting module and offered to be a reference.
+N00142,C0395,2026-06-24,L. Meyer,Training workshop completed; adoption metrics improving week over week.
+N00143,C0362,2026-03-21,A. Rao,Quarterly business review went well; customer plans to expand to a second region.
+N00144,C1992,2026-02-08,L. Meyer,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00145,C2424,2026-05-08,S. Okafor,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00146,C0899,2026-02-17,L. Meyer,Vantiq Cloud presented a proposal priced well below our renewal quote; customer asked us to match it.
+N00147,C0976,2026-07-16,S. Okafor,Quarterly business review went well; customer plans to expand to a second region.
+N00148,C2523,2026-01-12,M. Chen,Payments have been late three quarters in a row; finance contact cites cash-flow pressure.
+N00149,C1962,2026-03-09,M. Chen,Champion left the company; new contact is evaluating alternatives including OrbitDesk.
+N00150,C0747,2026-07-07,L. Meyer,Payments have been late three quarters in a row; finance contact cites cash-flow pressure.
+N00151,C0973,2026-07-26,M. Chen,Training workshop completed; adoption metrics improving week over week.
+N00152,C0390,2026-01-17,S. Okafor,Frustrated by repeated SLA breaches; asked for an executive call before renewal.
+N00153,C0112,2026-05-18,S. Okafor,Training workshop completed; adoption metrics improving week over week.
+N00154,C2579,2026-04-14,S. Okafor,Quarterly business review went well; customer plans to expand to a second region.
+N00155,C0343,2026-05-16,M. Chen,Customer is very satisfied with the new reporting module and offered to be a reference.
+N00156,C1951,2026-05-13,S. Okafor,Usage has dropped sharply since the reorganisation; only a fraction of seats are active.
+N00157,C0280,2026-01-16,A. Rao,Quarterly business review went well; customer plans to expand to a second region.
+N00158,C0580,2026-05-20,S. Okafor,Customer is very satisfied with the new reporting module and offered to be a reference.
+N00159,C1094,2026-02-03,L. Meyer,Quarterly business review went well; customer plans to expand to a second region.
+N00160,C0978,2026-02-09,M. Chen,Customer is very satisfied with the new reporting module and offered to be a reference.
+N00161,C1318,2026-07-05,A. Rao,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00162,C0834,2026-02-21,M. Chen,Training workshop completed; adoption metrics improving week over week.
+N00163,C0778,2026-03-20,M. Chen,Training workshop completed; adoption metrics improving week over week.
+N00164,C0389,2026-06-16,L. Meyer,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00165,C1320,2026-05-10,S. Okafor,Training workshop completed; adoption metrics improving week over week.
+N00166,C0853,2026-03-06,M. Chen,Customer is very satisfied with the new reporting module and offered to be a reference.
+N00167,C1095,2026-03-26,M. Chen,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00168,C1573,2026-05-27,L. Meyer,Customer mentioned budget cuts and asked about downgrading seats at renewal.
+N00169,C1883,2026-03-02,M. Chen,Training workshop completed; adoption metrics improving week over week.
+N00170,C0779,2026-02-14,S. Okafor,Quarterly business review went well; customer plans to expand to a second region.
+N00171,C2803,2026-07-22,M. Chen,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00172,C0998,2026-04-06,S. Okafor,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00173,C1254,2026-03-03,L. Meyer,Training workshop completed; adoption metrics improving week over week.
+N00174,C0358,2026-09-09,A. Rao,Quarterly business review went well; customer plans to expand to a second region.
+N00175,C2577,2026-06-25,M. Chen,Customer mentioned budget cuts and asked about downgrading seats at renewal.
+N00176,C2176,2026-01-02,L. Meyer,Payments have been late three quarters in a row; finance contact cites cash-flow pressure.
+N00177,C1603,2026-08-03,A. Rao,Frustrated by repeated SLA breaches; asked for an executive call before renewal.
+N00178,C2607,2026-07-12,M. Chen,Quarterly business review went well; customer plans to expand to a second region.
+N00179,C1714,2026-08-17,L. Meyer,Champion left the company; new contact is evaluating alternatives including Vantiq Cloud.
+N00180,C1995,2026-06-25,M. Chen,Frustrated by repeated SLA breaches; asked for an executive call before renewal.
+N00181,C2130,2026-02-22,S. Okafor,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00182,C0013,2026-02-17,L. Meyer,Champion left the company; new contact is evaluating alternatives including OrbitDesk.
+N00183,C2998,2026-03-25,M. Chen,Training workshop completed; adoption metrics improving week over week.
+N00184,C2132,2026-07-02,A. Rao,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00185,C0428,2026-01-09,M. Chen,Customer is very satisfied with the new reporting module and offered to be a reference.
+N00186,C2023,2026-06-21,S. Okafor,Quarterly business review went well; customer plans to expand to a second region.
+N00187,C2611,2026-01-24,M. Chen,Training workshop completed; adoption metrics improving week over week.
+N00188,C1933,2026-02-02,L. Meyer,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00189,C1549,2026-04-03,A. Rao,Quarterly business review went well; customer plans to expand to a second region.
+N00190,C0443,2026-04-06,S. Okafor,Executive sponsor met the CIO; renewal expected to proceed on current terms.
+N00191,C2619,2026-09-14,L. Meyer,Usage has dropped sharply since the reorganisation; only a fraction of seats are active.
+N00192,C2778,2026-07-27,A. Rao,Usage has dropped sharply since the reorganisation; only a fraction of seats are active.
+N00193,C1989,2026-05-22,A. Rao,Training workshop completed; adoption metrics improving week over week.
+N00194,C2004,2026-09-17,M. Chen,Quarterly business review went well; customer plans to expand to a second region.
+N00195,C2123,2026-02-18,S. Okafor,Customer is very satisfied with the new reporting module and offered to be a reference.
+N00196,C2737,2026-07-20,A. Rao,Payments have been late three quarters in a row; finance contact cites cash-flow pressure.
+N00197,C1592,2026-05-15,M. Chen,Training workshop completed; adoption metrics improving week over week.
+N00198,C2562,2026-01-10,L. Meyer,Quarterly business review went well; customer plans to expand to a second region.
+N00199,C2651,2026-05-17,L. Meyer,Quarterly business review went well; customer plans to expand to a second region.
+N00200,C2847,2026-09-24,S. Okafor,Quarterly business review went well; customer plans to expand to a second region.

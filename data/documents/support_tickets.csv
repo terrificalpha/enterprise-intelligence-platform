@@ -1,0 +1,274 @@
+ticket_id,customer_id,priority,subject,description,resolution_hours
+T00001,C1307,P3,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,36.1
+T00002,C2038,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,21.1
+T00003,C2038,P4,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,39.7
+T00004,C0569,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,35.0
+T00005,C0569,P3,Slow ticket response,Customer reports that ticket 7304 has been open for several days without a resolution. Escalation requested.,41.6
+T00006,C1898,P2,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,26.5
+T00007,C1898,P3,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,15.3
+T00008,C2499,P2,Slow ticket response,Customer reports that ticket 5225 has been open for several days without a resolution. Escalation requested.,12.1
+T00009,C2499,P3,Slow ticket response,Customer reports that ticket 9461 has been open for several days without a resolution. Escalation requested.,29.2
+T00010,C1112,P2,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,34.9
+T00011,C1236,P1,Service outage,Production dashboard was unavailable for 9 hours. Customer requests a root cause analysis and SLA credit.,30.7
+T00012,C1236,P3,Service outage,Production dashboard was unavailable for 7 hours. Customer requests a root cause analysis and SLA credit.,17.9
+T00013,C1124,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,17.3
+T00014,C1124,P3,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,33.5
+T00015,C2731,P2,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,8.6
+T00016,C2215,P2,Slow ticket response,Customer reports that ticket 9257 has been open for several days without a resolution. Escalation requested.,31.7
+T00017,C2215,P3,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,27.9
+T00018,C1854,P1,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,28.3
+T00019,C1397,P2,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,31.3
+T00020,C1397,P2,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,6.0
+T00021,C0719,P4,Slow ticket response,Customer reports that ticket 4296 has been open for several days without a resolution. Escalation requested.,11.6
+T00022,C0892,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,11.3
+T00023,C0892,P4,Slow ticket response,Customer reports that ticket 1867 has been open for several days without a resolution. Escalation requested.,5.8
+T00024,C1141,P2,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,22.3
+T00025,C2804,P3,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,18.4
+T00026,C2804,P3,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,44.5
+T00027,C2180,P2,Slow ticket response,Customer reports that ticket 2576 has been open for several days without a resolution. Escalation requested.,14.0
+T00028,C2180,P2,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,18.6
+T00029,C1444,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,59.5
+T00030,C1444,P4,Slow ticket response,Customer reports that ticket 2449 has been open for several days without a resolution. Escalation requested.,3.8
+T00031,C2265,P3,Service outage,Production dashboard was unavailable for 6 hours. Customer requests a root cause analysis and SLA credit.,19.5
+T00032,C2265,P2,Slow ticket response,Customer reports that ticket 9064 has been open for several days without a resolution. Escalation requested.,6.1
+T00033,C2835,P3,Slow ticket response,Customer reports that ticket 3530 has been open for several days without a resolution. Escalation requested.,23.1
+T00034,C2835,P4,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,11.0
+T00035,C0585,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,11.6
+T00036,C0585,P3,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,13.9
+T00037,C1477,P3,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,23.7
+T00038,C1436,P4,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,43.3
+T00039,C1436,P3,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,27.4
+T00040,C1167,P4,Service outage,Production dashboard was unavailable for 4 hours. Customer requests a root cause analysis and SLA credit.,51.0
+T00041,C2091,P2,Slow ticket response,Customer reports that ticket 4304 has been open for several days without a resolution. Escalation requested.,9.9
+T00042,C2091,P4,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,19.3
+T00043,C1746,P2,Service outage,Production dashboard was unavailable for 2 hours. Customer requests a root cause analysis and SLA credit.,4.2
+T00044,C1746,P3,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,11.8
+T00045,C1699,P3,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,15.6
+T00046,C2784,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,19.4
+T00047,C0675,P3,Slow ticket response,Customer reports that ticket 2333 has been open for several days without a resolution. Escalation requested.,10.1
+T00048,C0993,P4,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,12.0
+T00049,C0993,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,41.3
+T00050,C2052,P2,Service outage,Production dashboard was unavailable for 5 hours. Customer requests a root cause analysis and SLA credit.,10.2
+T00051,C0204,P3,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,39.6
+T00052,C0204,P4,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,63.0
+T00053,C2773,P3,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,9.4
+T00054,C2773,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,18.3
+T00055,C0853,P2,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,7.9
+T00056,C2393,P2,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,28.1
+T00057,C2234,P2,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,21.3
+T00058,C1243,P2,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,62.0
+T00059,C1243,P3,Service outage,Production dashboard was unavailable for 2 hours. Customer requests a root cause analysis and SLA credit.,9.9
+T00060,C1967,P4,Slow ticket response,Customer reports that ticket 7203 has been open for several days without a resolution. Escalation requested.,35.9
+T00061,C1969,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,22.0
+T00062,C1390,P3,Slow ticket response,Customer reports that ticket 3907 has been open for several days without a resolution. Escalation requested.,46.9
+T00063,C1390,P3,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,16.8
+T00064,C0515,P2,Slow ticket response,Customer reports that ticket 4751 has been open for several days without a resolution. Escalation requested.,34.7
+T00065,C0326,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,43.2
+T00066,C1635,P2,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,53.2
+T00067,C2078,P3,Service outage,Production dashboard was unavailable for 9 hours. Customer requests a root cause analysis and SLA credit.,13.5
+T00068,C2078,P2,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,18.9
+T00069,C1899,P3,Slow ticket response,Customer reports that ticket 6226 has been open for several days without a resolution. Escalation requested.,6.7
+T00070,C1899,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,30.8
+T00071,C2503,P2,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,13.7
+T00072,C2503,P2,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,30.3
+T00073,C2453,P3,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,50.2
+T00074,C2453,P2,Slow ticket response,Customer reports that ticket 9380 has been open for several days without a resolution. Escalation requested.,47.0
+T00075,C2749,P3,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,38.6
+T00076,C0700,P2,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,19.5
+T00077,C0700,P2,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,10.3
+T00078,C2963,P3,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,24.1
+T00079,C0736,P4,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,34.3
+T00080,C2774,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,49.9
+T00081,C0884,P3,Slow ticket response,Customer reports that ticket 7502 has been open for several days without a resolution. Escalation requested.,8.8
+T00082,C0884,P2,Service outage,Production dashboard was unavailable for 7 hours. Customer requests a root cause analysis and SLA credit.,25.1
+T00083,C2172,P4,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,27.9
+T00084,C2172,P4,Service outage,Production dashboard was unavailable for 8 hours. Customer requests a root cause analysis and SLA credit.,23.2
+T00085,C1785,P1,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,19.1
+T00086,C1785,P4,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,18.0
+T00087,C2772,P3,Slow ticket response,Customer reports that ticket 1464 has been open for several days without a resolution. Escalation requested.,7.2
+T00088,C2772,P1,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,17.8
+T00089,C2675,P3,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,12.8
+T00090,C2675,P3,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,12.2
+T00091,C0632,P2,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,33.6
+T00092,C0632,P3,Service outage,Production dashboard was unavailable for 2 hours. Customer requests a root cause analysis and SLA credit.,10.4
+T00093,C2650,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,14.4
+T00094,C2934,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,19.0
+T00095,C1103,P4,Slow ticket response,Customer reports that ticket 5870 has been open for several days without a resolution. Escalation requested.,7.3
+T00096,C2318,P4,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,19.7
+T00097,C2137,P2,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,23.5
+T00098,C2137,P3,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,25.7
+T00099,C0980,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,15.9
+T00100,C0980,P3,Service outage,Production dashboard was unavailable for 4 hours. Customer requests a root cause analysis and SLA credit.,11.1
+T00101,C1272,P3,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,30.5
+T00102,C1272,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,76.4
+T00103,C0207,P4,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,20.6
+T00104,C0207,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,12.0
+T00105,C1392,P1,Slow ticket response,Customer reports that ticket 8815 has been open for several days without a resolution. Escalation requested.,26.5
+T00106,C0441,P2,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,5.2
+T00107,C0441,P4,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,35.3
+T00108,C1514,P2,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,71.1
+T00109,C0413,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,17.7
+T00110,C0413,P1,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,26.2
+T00111,C0225,P3,Slow ticket response,Customer reports that ticket 9282 has been open for several days without a resolution. Escalation requested.,11.0
+T00112,C0225,P2,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,16.1
+T00113,C0122,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,16.9
+T00114,C1427,P1,Service outage,Production dashboard was unavailable for 8 hours. Customer requests a root cause analysis and SLA credit.,30.8
+T00115,C2130,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,6.0
+T00116,C0378,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,19.3
+T00117,C2359,P3,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,26.8
+T00118,C2359,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,20.2
+T00119,C0415,P4,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,11.7
+T00120,C2053,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,35.4
+T00121,C2053,P4,Service outage,Production dashboard was unavailable for 8 hours. Customer requests a root cause analysis and SLA credit.,23.9
+T00122,C1743,P2,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,23.9
+T00123,C2187,P3,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,26.4
+T00124,C2187,P4,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,10.2
+T00125,C0685,P3,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,24.6
+T00126,C0685,P2,Slow ticket response,Customer reports that ticket 9860 has been open for several days without a resolution. Escalation requested.,6.2
+T00127,C0869,P3,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,24.6
+T00128,C0869,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,42.7
+T00129,C1610,P4,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,27.7
+T00130,C1610,P2,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,7.6
+T00131,C2786,P3,Slow ticket response,Customer reports that ticket 8788 has been open for several days without a resolution. Escalation requested.,24.6
+T00132,C2786,P3,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,21.8
+T00133,C2986,P1,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,16.4
+T00134,C0281,P4,Service outage,Production dashboard was unavailable for 5 hours. Customer requests a root cause analysis and SLA credit.,75.0
+T00135,C1105,P2,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,18.9
+T00136,C1105,P2,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,31.8
+T00137,C2744,P3,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,30.4
+T00138,C2744,P3,Slow ticket response,Customer reports that ticket 7611 has been open for several days without a resolution. Escalation requested.,23.6
+T00139,C1846,P2,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,9.9
+T00140,C2533,P3,Slow ticket response,Customer reports that ticket 9667 has been open for several days without a resolution. Escalation requested.,41.4
+T00141,C2533,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,17.2
+T00142,C1052,P2,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,15.2
+T00143,C1052,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,13.3
+T00144,C1364,P2,Service outage,Production dashboard was unavailable for 10 hours. Customer requests a root cause analysis and SLA credit.,26.8
+T00145,C2283,P3,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,30.6
+T00146,C2863,P3,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,16.1
+T00147,C2863,P2,Service outage,Production dashboard was unavailable for 6 hours. Customer requests a root cause analysis and SLA credit.,16.3
+T00148,C0965,P1,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,12.3
+T00149,C0965,P2,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,11.5
+T00150,C2379,P1,Service outage,Production dashboard was unavailable for 3 hours. Customer requests a root cause analysis and SLA credit.,20.6
+T00151,C2379,P2,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,18.6
+T00152,C2652,P2,Slow ticket response,Customer reports that ticket 1014 has been open for several days without a resolution. Escalation requested.,21.2
+T00153,C2005,P2,Service outage,Production dashboard was unavailable for 6 hours. Customer requests a root cause analysis and SLA credit.,17.1
+T00154,C2005,P2,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,3.3
+T00155,C1529,P2,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,33.0
+T00156,C1529,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,29.3
+T00157,C2727,P1,Slow ticket response,Customer reports that ticket 9268 has been open for several days without a resolution. Escalation requested.,33.7
+T00158,C2479,P2,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,10.6
+T00159,C2586,P4,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,28.8
+T00160,C2586,P4,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,17.7
+T00161,C1058,P4,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,11.4
+T00162,C1058,P3,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,30.8
+T00163,C2044,P1,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,22.4
+T00164,C1110,P3,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,44.5
+T00165,C2748,P2,Slow ticket response,Customer reports that ticket 6343 has been open for several days without a resolution. Escalation requested.,10.0
+T00166,C2748,P3,Slow ticket response,Customer reports that ticket 2092 has been open for several days without a resolution. Escalation requested.,20.7
+T00167,C1964,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,24.8
+T00168,C1964,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,13.0
+T00169,C0859,P3,Slow ticket response,Customer reports that ticket 3652 has been open for several days without a resolution. Escalation requested.,19.8
+T00170,C2821,P4,Slow ticket response,Customer reports that ticket 3081 has been open for several days without a resolution. Escalation requested.,12.1
+T00171,C2821,P2,Service outage,Production dashboard was unavailable for 8 hours. Customer requests a root cause analysis and SLA credit.,43.0
+T00172,C2954,P4,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,24.3
+T00173,C2217,P3,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,14.1
+T00174,C2113,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,9.6
+T00175,C2113,P4,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,9.5
+T00176,C0431,P4,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,19.8
+T00177,C0431,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,48.9
+T00178,C2768,P4,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,17.3
+T00179,C2768,P1,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,21.8
+T00180,C0260,P2,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,95.6
+T00181,C0260,P3,Service outage,Production dashboard was unavailable for 8 hours. Customer requests a root cause analysis and SLA credit.,16.9
+T00182,C2273,P2,Service outage,Production dashboard was unavailable for 5 hours. Customer requests a root cause analysis and SLA credit.,21.5
+T00183,C1708,P2,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,10.9
+T00184,C2260,P4,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,34.1
+T00185,C1623,P3,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,25.2
+T00186,C1382,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,4.6
+T00187,C2615,P3,Service outage,Production dashboard was unavailable for 10 hours. Customer requests a root cause analysis and SLA credit.,24.4
+T00188,C0583,P4,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,25.3
+T00189,C0583,P1,Service outage,Production dashboard was unavailable for 10 hours. Customer requests a root cause analysis and SLA credit.,12.2
+T00190,C2775,P2,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,38.2
+T00191,C2775,P3,Slow ticket response,Customer reports that ticket 7657 has been open for several days without a resolution. Escalation requested.,6.9
+T00192,C0751,P3,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,14.2
+T00193,C1142,P2,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,10.1
+T00194,C2229,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,37.0
+T00195,C2229,P2,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,44.6
+T00196,C2585,P4,Service outage,Production dashboard was unavailable for 2 hours. Customer requests a root cause analysis and SLA credit.,14.7
+T00197,C2585,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,27.2
+T00198,C2480,P2,Slow ticket response,Customer reports that ticket 2642 has been open for several days without a resolution. Escalation requested.,40.5
+T00199,C0975,P3,Slow ticket response,Customer reports that ticket 9637 has been open for several days without a resolution. Escalation requested.,20.2
+T00200,C2450,P4,Slow ticket response,Customer reports that ticket 1014 has been open for several days without a resolution. Escalation requested.,28.4
+T00201,C2545,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,27.8
+T00202,C2545,P1,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,15.6
+T00203,C0891,P3,Slow ticket response,Customer reports that ticket 7756 has been open for several days without a resolution. Escalation requested.,23.1
+T00204,C2770,P1,Service outage,Production dashboard was unavailable for 7 hours. Customer requests a root cause analysis and SLA credit.,18.2
+T00205,C2107,P2,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,20.0
+T00206,C2107,P4,Slow ticket response,Customer reports that ticket 6828 has been open for several days without a resolution. Escalation requested.,10.4
+T00207,C1182,P3,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,28.0
+T00208,C2977,P3,Service outage,Production dashboard was unavailable for 10 hours. Customer requests a root cause analysis and SLA credit.,30.7
+T00209,C2977,P3,Service outage,Production dashboard was unavailable for 4 hours. Customer requests a root cause analysis and SLA credit.,17.6
+T00210,C2441,P4,Service outage,Production dashboard was unavailable for 9 hours. Customer requests a root cause analysis and SLA credit.,43.5
+T00211,C2441,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,23.0
+T00212,C2534,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,16.4
+T00213,C0673,P1,Slow ticket response,Customer reports that ticket 3923 has been open for several days without a resolution. Escalation requested.,16.8
+T00214,C2313,P2,Slow ticket response,Customer reports that ticket 8244 has been open for several days without a resolution. Escalation requested.,15.4
+T00215,C2867,P3,Service outage,Production dashboard was unavailable for 3 hours. Customer requests a root cause analysis and SLA credit.,18.0
+T00216,C2867,P3,Service outage,Production dashboard was unavailable for 11 hours. Customer requests a root cause analysis and SLA credit.,27.1
+T00217,C0708,P4,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,21.8
+T00218,C0708,P2,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,24.1
+T00219,C2102,P3,Slow ticket response,Customer reports that ticket 7306 has been open for several days without a resolution. Escalation requested.,37.0
+T00220,C2102,P4,Service outage,Production dashboard was unavailable for 5 hours. Customer requests a root cause analysis and SLA credit.,36.8
+T00221,C1328,P2,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,15.1
+T00222,C2611,P4,Service outage,Production dashboard was unavailable for 2 hours. Customer requests a root cause analysis and SLA credit.,18.8
+T00223,C2893,P3,Slow ticket response,Customer reports that ticket 5324 has been open for several days without a resolution. Escalation requested.,23.4
+T00224,C2893,P2,Service outage,Production dashboard was unavailable for 7 hours. Customer requests a root cause analysis and SLA credit.,19.4
+T00225,C0071,P4,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,20.6
+T00226,C0071,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,18.9
+T00227,C1225,P4,Slow ticket response,Customer reports that ticket 4510 has been open for several days without a resolution. Escalation requested.,24.4
+T00228,C2694,P4,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,24.7
+T00229,C1163,P2,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,16.4
+T00230,C1163,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,17.9
+T00231,C1878,P3,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,20.5
+T00232,C0035,P4,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,39.8
+T00233,C0035,P3,Service outage,Production dashboard was unavailable for 9 hours. Customer requests a root cause analysis and SLA credit.,31.9
+T00234,C2931,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,47.3
+T00235,C1601,P4,Service outage,Production dashboard was unavailable for 4 hours. Customer requests a root cause analysis and SLA credit.,22.4
+T00236,C2996,P3,Service outage,Production dashboard was unavailable for 4 hours. Customer requests a root cause analysis and SLA credit.,27.8
+T00237,C0373,P3,Slow ticket response,Customer reports that ticket 4926 has been open for several days without a resolution. Escalation requested.,18.0
+T00238,C2150,P2,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,11.7
+T00239,C0804,P1,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,43.0
+T00240,C0804,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,21.4
+T00241,C2055,P2,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,21.5
+T00242,C1993,P2,Slow ticket response,Customer reports that ticket 2460 has been open for several days without a resolution. Escalation requested.,37.8
+T00243,C1993,P2,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,31.8
+T00244,C0319,P4,Service outage,Production dashboard was unavailable for 11 hours. Customer requests a root cause analysis and SLA credit.,7.7
+T00245,C0319,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,7.1
+T00246,C1165,P3,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,16.4
+T00247,C1165,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,10.8
+T00248,C0540,P3,Slow ticket response,Customer reports that ticket 8438 has been open for several days without a resolution. Escalation requested.,26.5
+T00249,C0119,P3,Slow ticket response,Customer reports that ticket 3832 has been open for several days without a resolution. Escalation requested.,30.7
+T00250,C0362,P4,Slow ticket response,Customer reports that ticket 2910 has been open for several days without a resolution. Escalation requested.,30.4
+T00251,C0362,P3,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,18.2
+T00252,C0880,P3,Service outage,Production dashboard was unavailable for 3 hours. Customer requests a root cause analysis and SLA credit.,11.4
+T00253,C2947,P2,Slow ticket response,Customer reports that ticket 1941 has been open for several days without a resolution. Escalation requested.,27.3
+T00254,C2947,P2,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,11.8
+T00255,C1648,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,19.0
+T00256,C0820,P2,Training request,New team members need onboarding sessions; seat adoption is lower than expected.,3.4
+T00257,C2295,P3,Service outage,Production dashboard was unavailable for 3 hours. Customer requests a root cause analysis and SLA credit.,27.2
+T00258,C0593,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,14.7
+T00259,C0593,P3,Service outage,Production dashboard was unavailable for 3 hours. Customer requests a root cause analysis and SLA credit.,9.8
+T00260,C2552,P4,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,25.9
+T00261,C2552,P2,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,48.7
+T00262,C0929,P2,Slow ticket response,Customer reports that ticket 6303 has been open for several days without a resolution. Escalation requested.,38.1
+T00263,C2386,P4,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,6.8
+T00264,C2975,P3,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,13.2
+T00265,C0420,P2,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,15.6
+T00266,C0420,P2,Slow ticket response,Customer reports that ticket 8768 has been open for several days without a resolution. Escalation requested.,16.0
+T00267,C0469,P3,Service outage,Production dashboard was unavailable for 11 hours. Customer requests a root cause analysis and SLA credit.,31.0
+T00268,C0469,P4,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,26.6
+T00269,C0434,P1,Performance degradation,Reports take over a minute to load during peak hours. Customer is frustrated.,26.4
+T00270,C2958,P4,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,33.5
+T00271,C2958,P3,Invoice dispute,Customer disputes the latest invoice and asks for clarification of the price increase applied at renewal.,21.0
+T00272,C0659,P2,Missing feature request,Customer asks for a deeper ERP integration and says competitors already provide it.,16.6
+T00273,C0659,P4,Service outage,Production dashboard was unavailable for 2 hours. Customer requests a root cause analysis and SLA credit.,13.8

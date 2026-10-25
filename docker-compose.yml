@@ -1,0 +1,15 @@
+services:
+  api:
+    build: .
+    ports: ["8000:8000"]
+    env_file: [{path: .env, required: false}]
+    volumes: ["./reports:/app/reports", "./data/documents:/app/data/documents"]
+  ui:
+    build: .
+    command: ["streamlit", "run", "ui/streamlit_app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+    ports: ["8501:8501"]
+    environment:
+      EIP_API_URL: http://api:8000
+      EIP_UI_MODE: api
+    env_file: [{path: .env, required: false}]
+    depends_on: [api]

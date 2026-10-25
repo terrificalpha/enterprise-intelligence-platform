@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+# generated at runtime
+reports/*
+!reports/.gitkeep
+artifacts/kb_index/
+artifacts/candidate_random_forest.joblib
